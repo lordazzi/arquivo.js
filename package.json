@@ -1,0 +1,29 @@
+{
+  "name": "arquivo.js",
+  "version": "1.0.0",
+  "description": "Protótipo que auxilia leitura de arquivos que fazem parte de da aplicação",
+  "main": "Arquivo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lordazzi/arquivo.js.git"
+  },
+  "keywords": [
+    "arquivo",
+    "http",
+    "read",
+    "file",
+    "javascript",
+    "js",
+    "simple",
+    "browser"
+  ],
+  "author": "Ricardo Azzi Silva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lordazzi/arquivo.js/issues"
+  },
+  "homepage": "https://github.com/lordazzi/arquivo.js#readme"
+}
